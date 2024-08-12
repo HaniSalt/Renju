@@ -1,0 +1,15 @@
+Welcome to Renju!
+
+Renju is a strategy board game played on a 15x15 grid. The goal is to create a row of five stones horizontally, vertically, or diagonally. Players take turns placing their stones on the intersections of the grid.
+
+Basic terminology:
+- Three: A row with three stones to which one can add one more stone to attain a straight four.
+- Straight four: An unbroken row with four stones to which one can add one more stone to attain five in a row in two different ways.
+
+There are forbidden rules in the Renju game, which are certain moves that Black (the starting player) is not allowed to make. This is in order to make the game fair for both players!
+Here are the 2 most important forbidden rules:
+
+- Double three: Placing a stone on an intersection, which makes more than one three that meet each other in this intersection.
+To put it simply: placing a stone on an intersection, connecting 4 other stones together will create two new lines of 3 stones with one step
+
+- Double four: Placing a stone on an intersection, which makes more than one four that meet each other in this intersection.
